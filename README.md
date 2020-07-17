@@ -1,2 +1,2 @@
-# typings-demo
-TypeScript typings demo
+# typings-poc
+TypeScript typings poc app
